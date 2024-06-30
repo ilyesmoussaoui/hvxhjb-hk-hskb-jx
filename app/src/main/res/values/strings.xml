@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">instgram</string>
+
+
+
+    <string name="ilyes">Your story</string>
+    <string name="ilyes1">ilyes</string>
+
+    <string name="f433">433</string>
+    <string name="inter">inter</string>
+    <string name="startuparchive">startuparchive</string>
+    <string name="aljazeera">aljazeera</string>
+    <string name="eyeonpalastin">eyeonpalastin</string>
+    <string name="bottom_navigation_home">Home</string>
+    <string name="bottom_navigation_settings">Settings</string>
+    <string name="bottom_navigation_profile">Profile</string>
+
+
+
+    <string name="description1">Be a winner</string>
+    <string name="time1">2</string>
+    <string name="timeFormat1">hours ago</string>
+    <string name="likes1">2554</string>
+    <string name="comments1">22</string>
+
+
+
+    <string name="description2">Spain are on fire 🔥🔥</string>
+    <string name="time2">14</string>
+    <string name="timeFormat2">minutes ago</string>
+    <string name="likes2">345,567</string>
+    <string name="comments2">1237</string>
+
+
+
+
+
+    <string name="description3">el principe diego milito🥶</string>
+    <string name="time3">1</string>
+    <string name="timeFormat3">day ago</string>
+    <string name="likes3">1,234,981</string>
+    <string name="comments3">4569</string>
+
+
+
+
+
+
+
+    <string name="description4">Nvidia > Europe</string>
+    <string name="time4">21</string>
+    <string name="timeFormat4">hours ago</string>
+    <string name="likes4">1456</string>
+    <string name="comments4">56</string>
+
+
+
+
+
+
+
+    <string name="description5">🔻🔻</string>
+    <string name="time5">1</string>
+    <string name="timeFormat5">hour ago</string>
+    <string name="likes5">458,984</string>
+    <string name="comments5">123,432</string>
+
+
+
+
+
+
+
+    <string name="description6">eid mubarak</string>
+    <string name="time6">44</string>
+    <string name="timeFormat6">minutes ago</string>
+    <string name="likes6">890,566</string>
+    <string name="comments6">234,543</string>
+
+
+</resources>
